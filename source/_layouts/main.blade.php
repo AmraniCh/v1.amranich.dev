@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="robots" content="noindex">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="{{ $page->description ?? $page->trans('siteDescription') }}">
@@ -125,6 +126,11 @@
 <body class="bg-yellow-50 text-yellow-800 overflow-hidden dark:bg-dark dark:text-yellow-200">
     <div id="wrapper"
         class="absolute top-0 left-0 bottom-0 right-0 overflow-auto sm:p-2 md:py-4 md:px-4 lg:px-8 lg:py-8">
+        <p class="text-center text-sm py-2 px-4">
+            This is an old version of my website. See the new one at
+            <a href="https://amranich.dev" class="underline font-semibold">amranich.dev</a>.
+        </p>
+
         @yield('body')
 
         @include('_partials.projects-archive')

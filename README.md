@@ -1,7 +1,11 @@
+> [!NOTE]
+> **This is the archived first version of my website.** It is still online at [v1.amranich.dev](https://v1.amranich.dev).
+> My new website is live at **[amranich.dev](https://amranich.dev)**.
+
 <div align="center">
   <img src="banner.png" alt="Portfolio Banner" width="100%">
   
-  # v1.amranich.dev
+  # v1.amranich.dev (archived)
 
   My personal portfolio website, built to showcase my work and skills as a software developer.
 
