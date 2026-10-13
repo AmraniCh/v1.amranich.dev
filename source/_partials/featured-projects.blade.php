@@ -54,7 +54,7 @@
         <x-project-card highlight="{{ false }}" snapshot="website-snapshot.png"
             snapshotAlt="Shakir El Amrani's personal website snapshot" date="{!! $page->trans('featured-projects.first-project.date') !!}"
             title="{!! $page->trans('featured-projects.card-title') !!}" projectTitle="{!! $page->trans('featured-projects.first-project.title') !!}" projectDesc="{!! $page->trans('featured-projects.first-project.desc') !!}"
-            sourceLink="https://github.com/AmraniCh/amranich.dev"
+            sourceLink="https://github.com/AmraniCh/v1.amranich.dev"
             sketchLink="https://www.behance.net/gallery/238174557/Personal-Portfolio-Website-V1-amranichdev"
             sourceBtn="{!! $page->trans('featured-projects.source-button') !!}" sketchesBtn="{!! $page->trans('featured-projects.sketches-button') !!}">
 

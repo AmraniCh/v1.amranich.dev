@@ -12,7 +12,7 @@ class FetchVersion
     {
         try {
             $client = new Client();
-            $response = $client->get("https://api.github.com/repos/amranich/amranich.dev/tags");
+            $response = $client->get("https://api.github.com/repos/amranich/v1.amranich.dev/tags");
             $tags = json_decode($response->getBody(), true);
             $jigsaw->setConfig('version', $tags[0]["name"]);
         } catch (ClientException $ex) {

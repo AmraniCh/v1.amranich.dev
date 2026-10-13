@@ -1,15 +1,15 @@
 <div align="center">
   <img src="banner.png" alt="Portfolio Banner" width="100%">
   
-  # amranich.dev
+  # v1.amranich.dev
 
   My personal portfolio website, built to showcase my work and skills as a software developer.
 
-  [![Deployment](https://img.shields.io/github/actions/workflow/status/AmraniCh/amranich.dev/deploy.yml?label=🚀%20Deployment&style=flat-square)](https://github.com/AmraniCh/amranich.dev/actions/workflows/deploy.yml)
-  [![Version](https://img.shields.io/github/v/tag/amranich/amranich.dev?label=version&style=flat-square&color=success)](https://github.com/AmraniCh/amranich.dev/releases)
-  [![License](https://img.shields.io/github/license/amranich/amranich.dev?style=flat-square)](LICENSE)
+  [![Deployment](https://img.shields.io/github/actions/workflow/status/AmraniCh/v1.amranich.dev/deploy.yml?label=🚀%20Deployment&style=flat-square)](https://github.com/AmraniCh/v1.amranich.dev/actions/workflows/deploy.yml)
+  [![Version](https://img.shields.io/github/v/tag/amranich/v1.amranich.dev?label=version&style=flat-square&color=success)](https://github.com/AmraniCh/v1.amranich.dev/releases)
+  [![License](https://img.shields.io/github/license/amranich/v1.amranich.dev?style=flat-square)](LICENSE)
 
-  [Visit Website](https://v1.amranich.dev) | [Changelog](CHANGELOG.md) | [Report Bug](https://github.com/AmraniCh/amranich.dev/issues)
+  [Visit Website](https://v1.amranich.dev) | [Changelog](CHANGELOG.md) | [Report Bug](https://github.com/AmraniCh/v1.amranich.dev/issues)
 
   [![Website](https://img.shields.io/badge/Website-v1.amranich.dev-yellow?style=flat-square)](https://v1.amranich.dev)
   [![Behance](https://img.shields.io/badge/Behance-Design-blue?style=flat-square&logo=behance)](https://www.behance.net/gallery/238174557/Personal-Portfolio-Website-V1-amranichdev)
@@ -54,8 +54,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/AmraniCh/amranich.dev.git
-cd amranich.dev
+git clone https://github.com/AmraniCh/v1.amranich.dev.git
+cd v1.amranich.dev
 
 composer install
 npm install

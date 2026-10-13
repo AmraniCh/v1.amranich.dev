@@ -19,7 +19,7 @@ return [
 
     'docUrl' => 'https://doc.amranich.dev',
 
-    'changeLogUrl' => 'https://github.com/AmraniCh/amranich.dev/blob/master/CHANGELOG.md',
+    'changeLogUrl' => 'https://github.com/AmraniCh/v1.amranich.dev/blob/master/CHANGELOG.md',
 
     'links' => [
         'github'        => 'https://github.com/amranich',
