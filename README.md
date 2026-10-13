@@ -9,9 +9,9 @@
   [![Version](https://img.shields.io/github/v/tag/amranich/amranich.dev?label=version&style=flat-square&color=success)](https://github.com/AmraniCh/amranich.dev/releases)
   [![License](https://img.shields.io/github/license/amranich/amranich.dev?style=flat-square)](LICENSE)
 
-  [Visit Website](https://amranich.dev) | [Changelog](CHANGELOG.md) | [Report Bug](https://github.com/AmraniCh/amranich.dev/issues)
+  [Visit Website](https://v1.amranich.dev) | [Changelog](CHANGELOG.md) | [Report Bug](https://github.com/AmraniCh/amranich.dev/issues)
 
-  [![Website](https://img.shields.io/badge/Website-amranich.dev-yellow?style=flat-square)](https://amranich.dev)
+  [![Website](https://img.shields.io/badge/Website-v1.amranich.dev-yellow?style=flat-square)](https://v1.amranich.dev)
   [![Behance](https://img.shields.io/badge/Behance-Design-blue?style=flat-square&logo=behance)](https://www.behance.net/gallery/238174557/Personal-Portfolio-Website-V1-amranichdev)
   [![CSS Nectar](https://img.shields.io/badge/CSS%20Nectar-Website%20of%20the%20Day-orange?style=flat-square)](https://cssnectar.com/css-gallery-inspiration/shakir-el-amrani-portfolio)
 </div>

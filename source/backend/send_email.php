@@ -9,7 +9,7 @@ use Symfony\Component\Mailer\Transport\Smtp\EsmtpTransport;
 
 $origins = [
     'http://localhost:3000',
-    'https://amranich.dev',
+    'https://v1.amranich.dev',
 ];
 
 $requestOrigin = $_SERVER['HTTP_ORIGIN'] ?? '';

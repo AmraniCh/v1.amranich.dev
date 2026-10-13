@@ -4,6 +4,6 @@ return [
 
     'production' => true,
 
-    'baseUrl' => 'https://amranich.dev',
+    'baseUrl' => 'https://v1.amranich.dev',
 
 ];
