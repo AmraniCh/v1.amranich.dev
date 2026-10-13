@@ -1,5 +1,14 @@
 # Change Log
 
+## v1.8.0 (2026-10-13)
+- **Final release: this website is now archived.** It stays online at [v1.amranich.dev](https://v1.amranich.dev), and the new website is live at [amranich.dev](https://amranich.dev).
+- Moved the site to v1.amranich.dev and pointed GitHub links to the renamed v1.amranich.dev repo.
+- Added an archive notice at the top of every page linking to the new website.
+- Added `noindex` meta tag so search engines show the new website instead.
+- Updated career details: Magma Core title, removed Headstarter position.
+- Moved Qasir URL Shortener to open source in projects archive.
+- Updated bio and NeuralCodec-RPi presentation link.
+
 ## v1.7.4 (2026-09-16)
 - Added glass effect on cards in both light and dark mode.
 - Added circle ripple animation on theme toggle.
